@@ -1,0 +1,21 @@
+# Compiled Object files
+*.o
+
+# Compiled Binaries
+encrypt
+decrypt
+sha2-256
+
+# Python files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.venv/
+env/
+venv/
+
+# Temp files
+file.txt
+text.txt
+*.bak
